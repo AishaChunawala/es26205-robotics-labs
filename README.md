@@ -8,8 +8,8 @@ A peer-to-peer repository for practical codes, simulation scripts, and notes for
 
 | Practical | Title / Topic | File Name / Links | Hardware / Software |
 | :--- | :--- | :--- | :--- |
-| **01 (Alt A)** | LED Blinking (Without External Components / Onboard LED) | [`_practical1_led_blinking_without_led.ino`](_practical1_led_blinking_without_led.ino) | Arduino UNO R4 Minima |
-| **01 (Alt B)** | LED Blinking (With External LED Circuit) | [`_practical1_led_blinking_with_led.ino`](_practical1_led_blinking_with_led.ino) | Arduino UNO R4 Minima, Breadboard, LED, Resistor |
+| **01 (Alt A)** | LED Blinking (Without External Components / Onboard LED) | <a href="_practical1_led_blinking_without_led.ino" target="_blank">`_practical1_led_blinking_without_led.ino`</a> | Arduino UNO R4 Minima |
+| **01 (Alt B)** | LED Blinking (With External LED Circuit) | <a href="_practical1_led_blinking_with_led.ino" target="_blank">`_practical1_led_blinking_with_led.ino`</a> | Arduino UNO R4 Minima, Breadboard, LED, Resistor |
 
 ---
 
