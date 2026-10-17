@@ -13,6 +13,15 @@ A peer-to-peer repository for practical codes, simulation scripts, and notes for
 
 ---
 
+## 💡 Practice Codes & Exercises
+
+| # | Title / Topic | File Name / Links | Hardware / Software |
+| :--- | :--- | :--- | :--- |
+| **P1** | Blinking of Light and Ringing of Buzzer | <a href="_practice_blinking_of_light_and_ringing_of_buzzer.ino" target="_blank">`_practice_blinking_of_light_and_ringing_of_buzzer.ino`</a> | Arduino UNO R4 Minima, LED, Buzzer |
+| **P2** | Interfacing with a Switch | <a href="_practice_interfacing_with_a_switch.ino" target="_blank">`_practice_interfacing_with_a_switch.ino`</a> | Arduino UNO R4 Minima, Push Button, Resistor |
+| **P3** | Switch Status Display using Arduino | <a href="_practice_switch_status_display_using_arduino.ino" target="_blank">`_practice_switch_status_display_using_arduino.ino`</a> | Arduino UNO R4 Minima, Switch, Serial Monitor |
+---
+
 ## 🚀 How to Use
 
 1. **Clone or Download:**
