@@ -1,4 +1,3 @@
-
 void setup() {
   pinMode(11, OUTPUT);  // LED 1
   pinMode(10, OUTPUT);  // LED 2
@@ -28,13 +27,5 @@ void loop() {
   digitalWrite(11, HIGH);
   digitalWrite(10, HIGH);
   digitalWrite(9, HIGH);
-  delay(100);
-}
-
-
-  // State 4: Both LEDs ON, buzzer ON
-  digitalWrite(LED1, HIGH);
-  digitalWrite(LED2, HIGH);
-  digitalWrite(BUZZER, HIGH);
   delay(100);
 }
